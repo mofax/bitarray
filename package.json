@@ -1,0 +1,5 @@
+{
+  "name": "@mofax/bitmap",
+  "module": "index.ts",
+  "type": "module"
+}
